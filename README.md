@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Javad Akhlaqi</h1>
-<h3 align="center">A passionate Backend developer from Afghanistan</h3>
+<h3 align="center">A passionate Fullstack developer from Afghanistan</h3>
 - 🔭 I’m currently working on [Starfood Accounting System](https://starfoods.ir/login)
 
 - 🌱 I’m currently learning **Spring boot, Data Science**
